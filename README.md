@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 <br>I'm Naina</h1>
 <h3 align="center">Final year - Data Science Undergrad</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nainachabra&label=Profile%20views&color=0e75b6&style=flat" alt="nainachabra" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nainachabra" alt="nainachabra" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced Statistics**
@@ -15,6 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/naina-chabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naina-chabra" height="30" width="40" /></a>
+<a href="https://instagram.com/nainawho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nainawho" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
